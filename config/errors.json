@@ -1,0 +1,6 @@
+{
+    "noMention": "Debes mencionar a alguien para ejecutar este comando.",
+    "noPerms": "No tienes los permisos necesarios",
+    "noPermsBot": "No tengo los permisos necesarios para hacer ese comando",
+    "sameId": "No puedes expulsarte a ti mismo"
+}
