@@ -3,8 +3,9 @@ Plantilla de bot, creado por akacannon.
 
  <br>
 > <center>INFORMACIÓN</center>
-> <center>Plantilla para bot de discord.js v13<br></center>
-> <center>Debes crear un archivo llamado ".env".
+> <center>Plantilla para bot de discord.js v13<br>
+> <center>Debes crear un archivo llamado ".env".<br>
+> <center>(Comando HELP.js *no terminado*)<center><br>
  
  <br>
 
